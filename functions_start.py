@@ -38,4 +38,4 @@ def multi_add(*args):
 # print (power(2))
 # print (power(2,3))
 # print (power(x=3, num=2))
-print (multi_add(10, 4, 5, 10))
+# print (multi_add(10, 4, 5, 10))
